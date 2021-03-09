@@ -59,7 +59,6 @@ namespace StringCalculator.Test
         {
             Calculator calculator = new Calculator();
             string input = "7,23,30";
-            string input2 = "7,23,30";
             int expectedOutput = 60;
             int output = calculator.Add(input);
 
