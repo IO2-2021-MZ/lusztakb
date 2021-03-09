@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c4aQvId9fHtLpPRx22RtYjBo7M/mZu8RW3PTKi0cigdOJJKAcv8XZHPcFvh+TOOEAeq2MiFGOu6wAZf48k3IwQ==",
+  "dgSpecHash": "PICkVboXuRlDTwe44OCv1pK+lHEY02ldXDlSlOXV3rS0PM0hgT86oNvdfWSa/+uY8u4uQRsyhArCCJOZVlzKcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\lusztakb\\String\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\lusztakb\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

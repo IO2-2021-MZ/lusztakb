@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\lusztakb\\String\\Tests\\Tests.csproj": {}
+    "C:\\Users\\PC\\Desktop\\lusztakb\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\lusztakb\\String\\String\\String.csproj": {
+    "C:\\Users\\PC\\Desktop\\lusztakb\\String\\String.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\lusztakb\\String\\String\\String.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\lusztakb\\String\\String.csproj",
         "projectName": "String",
-        "projectPath": "C:\\Users\\PC\\Desktop\\lusztakb\\String\\String\\String.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\lusztakb\\String\\String.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\lusztakb\\String\\String\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\lusztakb\\String\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\lusztakb\\String\\Tests\\Tests.csproj": {
+    "C:\\Users\\PC\\Desktop\\lusztakb\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\lusztakb\\String\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\lusztakb\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\PC\\Desktop\\lusztakb\\String\\Tests\\Tests.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\lusztakb\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\lusztakb\\String\\Tests\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\lusztakb\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\lusztakb\\String\\String\\String.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\lusztakb\\String\\String\\String.csproj"
+              "C:\\Users\\PC\\Desktop\\lusztakb\\String\\String.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\lusztakb\\String\\String.csproj"
               }
             }
           }
